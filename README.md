@@ -56,8 +56,8 @@ A machine learning project that uses ball-by-ball cricket data to study momentum
 
 ### Connect With Me
 
-📧 Email: YOUR_EMAIL  
-💼 LinkedIn: YOUR_LINKEDIN_URL
+📧 Email:punithgowdag789@gmail.com  
+💼 LinkedIn:www.linkedin.com/in/punith-gowda-g/
 
 ---
 
