@@ -70,6 +70,16 @@ The project includes features related to pet services, products, veterinary info
 
 ---
 
+### 🏠 EstateIQ – Intelligent Property Valuation
+
+EstateIQ is a machine learning-based web application that predicts the estimated value of a property based on details such as location, area, number of bedrooms, bathrooms and other property features.
+
+The application provides an estimated property price along with additional information to help users understand the valuation.
+
+**Technologies:** Python, Machine Learning, Flask, HTML, CSS, JavaScript, SQLite
+
+---
+
 ### 🏨 Hotel Management System
 
 A web application developed to manage basic hotel operations and booking-related information.
